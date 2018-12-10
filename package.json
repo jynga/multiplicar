@@ -1,0 +1,17 @@
+{
+  "name": "seccion04",
+  "version": "1.0.0",
+  "description": "Tabla multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
